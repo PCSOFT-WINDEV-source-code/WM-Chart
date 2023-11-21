@@ -1,0 +1,247 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WIN_Real_Time
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : WIN_Real_Time
+ identifier : 0x2c17e48e22ee033d
+ internal_properties : CAAAAAgAAAAf8k4vhTEN4PJ9FiDqcSZJnHPgpy3QppNxBCn+8ZiRGm7D6gLgcnzHzNZmIXK2LI/7m9PNXr7cmB2vo5p7Th+c6cj40+fj3AfpQF7WKQpTQKy3yNp7JuIE1oiFXxW7M/14ffNYYHMp9//S667keuuCu3MYyiWJlolJJYKmLMTtze4INIsq+b3O9xrLruvpqZvAHOfBj8hujrH9I27Aph6Yg01BfrbCFnbdlk4dlPGCRaQyq0hHOsdOEePD3X+mQoxEignXqqfA+0p4YrarC0D7fFILPAAbDdqnYUWidKZINnIA2lSbm9tMKR/IhMJN7bvG6Uf4hB0z3uPgqeriCMtmQRhN+G3RYM/Innbxuta7wb2p9Vz09B6QCwjVs5Wi8l2TO5gPtymMIDNvFLU+9pXxjLTHsNcDYfMqMn9otqeeTMx2bVQdAQBuvJhYDaI8/Yb10c7hrddCIdDKK5IDwuBT1aFWQ4P72DWBwVKj1q1nCwzm2QkQigQ5cT2wEy1nFGcOXKq1zAg+nYuzccAN8LlCoWC9xveBdOT7oAeo7stEVhNQNSAXNN0/aBaCzBR5wgjq26bTcP0vvwnrLV9M7eq7kFh/YghUBRw2aab7rC/PyD00F1w6/jgoBygRUoLWDDTrHxXtlk5HdNoSucm2KuAONYPfkyWvVJAr04bkngq+zu8ZUSYV7ESfHcHbPjf5WuAQf3Vb0/O3CCK/H+CGKrftdxgx6gMzQOSISmWWG3kmQhGxc9wXin2uZfqAfvbiXvIT
+ properties :
+  width : 320
+  height : 516
+  heightMin : 589
+ controls :
+  -
+    name : CHART_Chart
+    identifier : 0x2c17e48e22ef033d
+    internal_properties : CAAAAAgAAADZ3nm4jGNF61srkOp+MBu0Je4G8OzU036KEWabCRuNAV9Qtb1JmzK2CzwyYPutoYALK6txuaXU4/4VTWeQvqtdy0OPN7nzYHWiRZpgBOKsQ8Bip2rMEluzTvBEcrxCKMUaIyA69BnxHBKvweSENTy4sAgHLXT41aa0y8GViGLwcq4vPeIrUo2YlM7pWgbuJDkT4O0ccFjhqc6hzaqf/kvV9uXU13ChVVEXWw7dCdayWfSK4YvV2t1++m8+z9iilxTZcvJsoytdQOI5Ps9mhcAVlaVGrucN6SVrhMroYtltwO6NePGYz8kGt3+tukwohHnXdBkZptP9/8YxW76zeO+0p4Pn4iqt7Kady3zJvqYDkR53wxnzZiRh9HG0LFk0WIw+u60dG2ukFMKhWEkVnhHO1tO6xWQhbyihum5wtMvWBGlKQoickDkrcI+yCiE5m5oU08doy4SDQEzz5EtuWbEf1qdcscGj5wQYb/k1PHEPhW7IylNVmY0/r5gj5x4jg++RVQ46HFE3uahLKkh/Cgq7rafVLTfm/YcXqI3pYiRJpmWy4fcyWIBgjdl2NITcnPVCiiQzJ6tFtOXVeCwLdDqMn0v/nE1leowX+LSYJZeT36hI/mHuNPJxdSdKty0sQZ2TC18PzZFuYGST6Txig4f22hSYQMvdllfFcq6v/rD/4G90cEsYbF6yETlMm4Bq9pkR4t/Ar4RzrMMzq2UU1IdHWYBXetdFENvgFOJqxiwODnN43ya5iTOi2ax3FaMyLP1pauCz/kXlc1u86TFYj1syjRlxz33tt3vBU6JzSaF+Bssp9RAYzMoKi2+jJGdNtV1bmtAE4EJgMFkyLAQdLpyR8dcahrX1FoAo8IWjfrobl5ZeT/MkkkDBtVDygxYZcp/McPbkZdO+Zic5oiu04GUafgHPKPkw/fWiRFZLgSK8FbaScwRqOWmnH1afs7WP0hNZX/exQ130Fl0HBxFgR4M7k7HyBXVVfDqGbbFYwNLe6P3boZ/0GLYf1THnS9Kc/8azqtpChkyoeQ7eHIAzpt5ZXPtCEPO/BibwRuaM5dNhIWWoE8BH6WA3phyoy7ie5AzsEioKQN2BXNVXPLUunR1k7ntCBSu9Owj4yhqFtxGiB+hCBbgujl4dKhLnKBHnkA4wDTaK0XmQeeewUYHiNXr5cyIwAmoNbTb9ITlPitAl6gG7NHjYX15bLHj9GGEOTHDR8/YWpJTisiz573+DDZkGko6jbpB7Qn0DmJMmgO517PBVe+pya2uqm7OivVcR7oIpuLAGwveH4QUkxhzLOUjo4n1vi8nd3+UIccw8AEEbFfZjVGeE4li4/llKOdRK9BugnzieQOXpFtr5G+WuU0XgcDwppBzxjreXoDLsbl0O1pv2rkUcFuBaalRwXrWZF+OWDWpGZIQbprLcDm4hbExBovmXLLLuuD7uZ6P+G2cSdZv3k2NJmyxY6ke6tSrOXLwoWv65cNpYRda9ew0AFkewRGpwtDlUE1bDXJ2Cq6idX68asjJc9gZq54GhUpMbegnFUSWkeK95h8/ifxGjyJ6IfKX/AwYVURIbUpXz9gKr4NP2sSQF3Jtso4Pjr6obyqm5V2ktAXSp+K4gEw8JvXFybpdpV9QaoEE=
+    properties :
+     x : 5
+     y : 15
+     width : 310
+     height : 308
+    type : 33
+    code_elements :
+     type_code : 72
+     p_codes :
+      -
+        code : |1+
+         //Runs the process defined in the template
+         
+        type : 14
+      -
+        code : |1+
+         //Runs the process defined in the template
+         
+        type : 18
+  -
+    name : BTN_StartTimer
+    identifier : 0x2c17e48e22f0033d
+    internal_properties : CAAAAAgAAACOlh41A5sFQX79jtvyrjvvT8nKsqdActEbQw/dJbHc+KFxdbifZiq8rKwSt0s/XuZtQeIl5rTxzd/9L0McYksQqBfMpw76b7pQEVw/VJPrt+lHuZC3SXKboS9hHWnT3RuXXolL9kG5dI/zvX2xmxhYXstUbHrzZ8+NtM1SjQi0g4Ai7M6VqAnpzLhBPrxGuDTykfR8RYbYRvw7Seq96Kt59rBu4KwiHsjDf3hoCFCdTr7Es0+NLbR0XrfA7c5iNy46hoo+Z2aLB01aQhMMC6u5R8Z6aME7yJ1gu70AaKb8FGId7xtMtvBshbz4yuLzpKtYBo+qnhCArJZOgrQzojyrYDj1JHoDxgCr6+nCRtbDJDxb1FyEpHv1xzpa1IXRtiFWgce33ZNb+Shk7DthQv4K7Cd+f2yvrvGW8MhABHdri59zNiYzPwZF82M8+O1wyz+jqrO8UGf8KoLcmOhD6DLcedERNq0d87BvW6J/JYZxEGP+nqAX+V5RpaFk1FPXEQWBx+wdY54b4EAe2I9QvjUmKkHomjkBGK9YVSbvkUlVMwjUgbZI0xq9n7J0TV8tO5CLnN73Ml75ZdsDnNYM3P4UVaZ0Kbq9hEJrAh9ujUqFtDIzWRmtR3dfeq8x9Hc6kNPkZkIJCcd/FWBH6JOl24XXuiwYwWm4O6joeRYUU94k3D8qy0udVg2OhiT8GpICEbgdeOb/IieTfrn61E4jrcOT+tR0FvcNtjrnsEUqLXvasxzg5qRd4+NQoiThSn3RyKshIIOw4sANkszfTe5oot4Vzw+7tEtDwr7fySLqWk6vvt8sAiZS2SqlGO9eO0UiIKg0pdILS/w4SXEYe+Lhtg9qbq37QnbdZzXEiPRs5ney2thv2Jcpb4A6ziVKtcxiDkENF4BFD/Q+zfiEAzaXZo1E2KBC61wu+TkZdOVy1swGSz0O+mmCcN9FVKEKdZflEicLNfiYE2F/WcjyF0YuI9g8AZ3WPkQ3NFOaJSsgEJ5sn7lkQDv6HIxOamJ6Y0ODWS/Ik/DBZSeXWU1BUkk=
+    properties :
+     x : 18
+     y : 339
+     width : 134
+     height : 52
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         
+         // Starts the procedure that regularly adds test data
+         FillTestData
+         
+         // Grays the startup button
+         BTN_StartTimer..State = Grayed
+         // Enables the stop button
+         BTN_StopTimer..State = Active
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : BTN_StopTimer
+    identifier : 0x2c17e48e22f1033d
+    internal_properties : CAAAAAgAAACg0os5Bz0pAVGBIuD/VQev5yARHBWeYk+cs3/Xx24uKfqpUVkWBaHnPlebeweKikUC5eiOqQcyAmHgSlHyrVP3dVm+dAH53M2qmAdlKlx3wr4/GWmykj2Z9X6M9cWcFVfOVOxWqNwWXnvhgSPgxO+TXEmF9Ch4cd7cWW0xCZCYO0fBKSfuiMpMUmG5YGjKFHpiUzk/Kkc9JcK5+GaQ3zGAhTKS745zeJCZJLN1BNUROcLg0znuaOeuTkYI2C93lUNuB8BW34ivgkxhL0AkcL41Lwojs+whDbVo3zkKwjh+1Ij84hnEFmBtt8Ni52UJk7m8ZDobKpG4f5CophWnOPwdE2ISWQLZ1jpGyXjSfdmYDM7FeI0Tq/gaz5XsXLLH0kc8LfQ5DdN5eLiCisLALjrZnHzk0ThF2QcOQasStJEC/YDSms+k+NwFjvzLpxRcSWCv0tHL8Q9xU3QfNPzr5xDFMhixt1R5tWWUoumuf87ka+9mR7W5+yNZV9W0ZIiKr83zClq7uLMTjWAX23WGLwXFd3gILsNkZjxgViGVhzg39gnjL8ZQhlw+K+09wWGi83cUowL5UK+TPq8udWZ27ShVQENo7x6Ijo9pf5oiE7nXneHU4cvxyp3SIvD8kj2ZjJ6NkSL1Kcql6OiIo8PvnHduv+N4C1HbmcsAstlIRTX4SU5321+Bf6dZ7nVjBliTN8P6Qy4fIBhl8+ePRy7FYuEYFRUivkdCFMcnN9Ja+yKMSnFT4J5ZEs3ZFFWYLpPIBZ7+Xtes1D9tmB2/2Wu7oKGXtNEA6+r03BM4cY48yK3rJlf8JTIA8a7OEGBWpPlS4K/ej93ClF0sKxfXhaiQMcred9Jh7JjuhDD9USI761h3cwj0MkB3GJAFAweL3N+b4LURg866kxe3wJVlOH5QCdQFrvtITT8VMXoVuHXVrwzNUTq5Sx8UHoJykXxmBMjXZ2cXH4s9mgn+GV1Yq3ZgkVBF/PEwt4Mp+T1K1MQLSfxsGHIY3yfdmi4GDfPn3zs=
+    properties :
+     x : 168
+     y : 339
+     width : 134
+     height : 52
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         
+         // Stops the procedure
+         EndAutomatedProcedure(FillTestData)
+         
+         // Enables the startup button
+         BTN_StartTimer..State = Active
+         // Grays the stop button
+         BTN_StopTimer..State = Grayed
+         
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : EDT_Interval
+    identifier : 0x2c17e48e22f2033d
+    internal_properties : CAAAAAgAAADT6axcFcAN3zydqW6UVwsj41fAYxNxiuQ9eEoGzZl5SeVizF5nH/D62t1p5rzWCOmRY+mRKVsg1DSa0AOtSnBasMXV+HP2R9liR6qKDsG2SJxXHrxs6o2pE/Ql9ivvtMq6REcR6OyzUSGzQ5H+dDTHnLJqVsWnXCjV10x+GDekG1be47vGT+83lvHuXaZGewmn+D03siv8NqEJWhiS9xIIUanppbw4/NsNeGKmDZQcjcMusI0i+kFON0qAM/69mHBrQJDqHqFO6BIGZ0sXkk+6kEV0t/Omx74dgByGEPrCLygHlICccagMh9Z++uU5TBaxjlGQTwQf/nQntTOqlYIqT6EiS/ZkJ5SSY76XaZDMMHFgmA7iJrdlng6ofcIkbApED9lCKS8TJY3MZ3EHbtet9t0rlWMCJ6xpsLXBSPQ4SocisIbo/Uq5H9GtPNi1gX2apL864gTy7nGSP62cCSxQwME7Sx9B5y4keYYc1XsX/JTsh3QfWrm7O9sCBatF5fNsy6EEWMTBkrWNom0p/El2oh+9Yyyec0XFZ8U8IBvwia07gahVOEQaZ8vTHmzf0lMZyK5d+xJni/ohjg7uj51XjBq3UX5xq/lYxe8Af5AIHYRs3Bk9QpptHDINh91nrxM+6Lhy+p/CRwQwEBghZTo/w3O1IAtpxUd+XLUeyraLfg31t5LceFQIvvz5jxyH/KaWXCQHDktlc92vZyrXekuCV2YyK17QZrO8RRACrqZ/h7eYWN+v8qdu1lhHTa2CcyGOrrMj0W4jVoeUpshe8kaRxvUwOG77rfzymAczmKijxreGU03cKtWJab6GgMqqwVM+Uw3pNQ/ay7YO26Q0ag37IM5kKk7eLvjvBKVL49Yr96TpdAq1Dwk0wzv5Co7Wi87OBIrKx3685CCSl3D4XJRQM2Sdnd7b9JMZCFE2sOmDeAwgmmfoKXiu2osRNBO0OLGflehCginybsx5RLyp/ujX11KbAvjXIJ5WSILsU1cj+lgUQKqM+T2c+PnigwBP/pCz+Yd2kteJkh9iM7wCILKpYPASIlfodTNHg7yu8qJ1QzrP0/QD/kBUlKqd+5ZZc4pr2fcTcbt+CvJumh2YvBd5OZ00IMLU9G/oUh59XpioM1Y8tdwip+fB55lpoB3QyD+y8bypwZhfTxhnqwFl68jzZ+koyg/siaeiei66dHnQafBJxQdGBce0HUnUwzJ/0SNgL+l9GPNMIDqGlJ60XD45wxvFzzsdvq4S6ZXA/QflnZxorrBBbMW2c//9nVmn9LtINcBHV9O1qY6I8uE6B+ugEYOYUBvQpeWiBiTxoN7fOa/cUA==
+    properties :
+     x : 18
+     y : 415
+     width : 284
+     height : 40
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        code : |1-
+         
+        type : 16
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+  -
+    name : BTN_Refresh
+    identifier : 0x2c17e48e22f3033d
+    internal_properties : CAAAAAgAAAC6PcRt3t+Pko2XLp8O+s0gSa+mGWVoVBFGVF0slsQS2o69BYktFI9s+/qpDHlS8Gx2elYDd/kF5QynPEEPiSfXMFKyEYyohVy1DP5o2bP7thn18v6Rt7NzTJyh03lztkeMHLz2HoNJHDhGRPIhP6OgrsIkZPIXolB9RTr7OaHr66kUxMSAeN8TpCd3bb4q0EGRcC7Yg801FPSfP5Ukth87RzrMI0QOOnDWGNFAMhh/sff/pt/38sxcchHVoA6BA+HwQjE+9Bb7VmQYAwA0yiHY+v1s03NroiJF6N8es/PoB/YZFsRRAPLB/MYPt5Ps4zfDjxj4B0Q5scyvaCkOUoop//zRTr2y5vbxfIbnztIH7eLG0AUzCP1Y3q78ALeUKDeTXBsWuZguTbyVzXv4sZdAxCtTNxeH4T6SoDsdRkKFCP/Yjr3z/8y/kFqDYu3pXZHio2or1EFvZ4zeK7ICqjCKCAYZDpYTG2Fz2x8jAZ2J+TCS08xc6u1iQv0Y4n6RsnOfp8roK2PRFyy8+jrWm+fAguXouCeE9+tXU1nR5ConrFAcC/eeyZ2C7NxZLWcFA6Cugac5GHSipIIg7E7gUBOaftiwk43upAx/5D1tGfkTJ7XZSMZiorZmOzj4GX4CAZMWF72zd0bOSPyBNATfULEhKBjeJJbNdgVH2bbrq3okAJ/QZFTkNsRQ7V3Y5F7s9y7SwbE8daB6lhOrb8Vmm5q6UdoSIcpsSBHSKjygKbvDxYKA6jwJ1NnwnNO+/nl3x0b2Os0+BNw3OUP8MvOzJqXfLUlTurS8+MLX3gZrHo9I55iGOP/p2xmS/OTDkc8ilkCQRQGdxwhzvw1ONKie7sXZg9D/NvsavZ/og15Ko3YctBI5xELejP5br3cWPR2P0dl7+9gcuVSUIQXMRj7V71p1tfWbaFXj1MDdH2dIhs05/7PbKOVvhDQrfd3Fi1RSajQQ4WzYTCKSFMNKaRhWJ2DET4s=
+    properties :
+     x : 168
+     y : 461
+     width : 136
+     height : 42
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         
+         // Modifies the visible interval
+         grRealTimeInterval(CHART_Chart, EDT_Interval)
+         grDraw(CHART_Chart)
+        type : 18
+      -
+        type : 161
+        enabled : false
+ actionbar :
+  name : ACTB_ActionBar
+  identifier : 0x2c17e48e22f4033d
+  internal_properties : CAAAAAgAAADlVBQIqDIvkqK7eDbbqF1+WSUrJNPEjRnnT56O3l+Al0gNQOO5RqKesUg1V2NAsO91eoF5cJ3gn5Z/+p/xP2cFi+7ofp5Id7BerpK9pQUPanxHb3rZmpAtD/V7bKM41bQbKTu0oX0beM2R6JRJd/3lRAfnlELIUldh46x9UOe++/0ds3of9NHI9Ev5TkkunmeJND3MNZsgravm1vnt9A1A9A5QFK0Ef7D71OR1WspMEjuyTtw+XancoN4WpBURya6sePd8xL9XXVrJ4YzSxl4HgV0v6YY10WtKR4604R8GdMuVUHAmO0sCGt2y6zDhwTQfOK7UHPO0TtnlysQde/1nddtzSOXiRAEk36snrJ9KIH/WSSDjiTXMRrYeWR/l0j6/jnnOeQ6LMl10l99eSQ==
+  controls : []
+  code_elements :
+   type_code : 125
+   p_codes :
+    -
+      type : 229
+      enabled : false
+    -
+      type : 239
+      enabled : false
+    -
+      type : 240
+      enabled : false
+ menu :
+  name : _Menu
+  identifier : 0x2be2b67508962715
+  internal_properties : CAAAAAgAAADgMVTORwj2Mt8z/R5WRL0mTVIMDO11ij5YdBwcO3ZAw8tWdEBL95DgWGGgMGBRKql5dANp5Vg/qpNyJvJQ8sIrr6GzC+masJIwyV5P7DpW0go2kGsf4EvdW1eqlu6V7I5EHVrMjd02cTaXwP0dbd1DSbdsd/Wxk0ScMGI7Z0eDsGOMLRfieoTYskOjcLtA7tgFoR24z+3d3zH3Bloaoqj6XKllvOzqHQUKs5ikiJtsiZpXF9leDIYykRzjnC4k4qQVjthAFpugw+diG+HfnEMv+L/rU3DRjlIiDq+0aeUP
+  options : []
+ languages :
+  - en-GB
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAABKff4sxysR+9kg8GIJ708iDvb5GJxqytSUKL54fomJ9xlu42EWUFv/+en+BSQDmdB2krqVslwL/1eyQDVw8sffQk7lF3aDfZNzV/+zROsnKAy1jaSejRR5UgML
+ code_elements :
+  type_code : 1
+  p_codes :
+   -
+     code : |1+
+      Procédure MyWindow()
+   -
+     code : |1+
+      
+      
+     type : 34
+   -
+     code : |1+
+      
+      
+     type : 234
+   -
+     code : |1+
+      
+      
+     type : 165
+   -
+     code : |1+
+      
+      
+     type : 177
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1+
+      
+      
+     type : 2
+  procedures :
+   -
+     name : FillTestData
+     internal_properties : CAAAAAgAAADjtIhQ5gQDYJma1CrSPo0p5T3coMWZGZ+QNdXyxYSlvLUThUwsWTEGgDcZ5plfcnjRUcdR3EP721r/NSl8BqZDvFROa1CcoqugHcOY2vIB+mPl1NCv+1nW40NKHg1seFyoWVBoEckKHg/pkhIhnEUIai1Z96/RzE1MGLai0grX9vNx
+     procedure_id : 2024337856074875709
+     type_code : 14
+     code : |1+
+      // Automatic procedure:
+      // The procedure is run manually, during a call in the code
+      // It will be repeated in loop, with 50 hundredths of a second between each call
+      // Each following call runs the procedure once, without timer
+      // 
+      
+      Procédure FillTestData()
+      
+      // Retrieves the current date and time
+      dtNow is datetime
+      
+      // Adds data (at random) for each series
+      grAddTimeData(CHART_Chart, 1, dtNow, Random(1,10))
+      grAddTimeData(CHART_Chart, 2, dtNow, Random(20,30))
+      
+      // Redraws the chart to take into account the new data
+      grDraw(CHART_Chart)
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAAB6ragasMBWLfpsSyU19J6lAvYEqFWd1xYOjmHr1XHVZOVmechqLo1vKvfoAJhHeXL59P8BudVQfrBZ/U9vpjDz5RFibMKKm/84EA==
+  original_name : _11
+resources :
+ string_res :
+  identifier : 0x1be2b67500412715
+  internal_properties : CAAAAAgAAACyXVFaObH4lOGSEHJoZf1MD49w+XTw2LScZCP/urkWFwy+HYJdyQ3umA==
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe
